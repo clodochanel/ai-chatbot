@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sol Real Estate",
+    "services": ["Venta", "Alquiler", "Valoración gratuita", "Gestión de hipotecas"],
+    "tax_info": "El ITP en Andalucía es generalmente del 7%",
+    "contact": "Calle Larios 5, Málaga. Tel: +34 952 00 00 00"
+  },
+  "listings": [
+    {
+      "id": "1",
+      "tipo": "Ático",
+      "zona": "Malagueta",
+      "precio": "450.000€",
+      "desc": "Vistas al mar, terraza de 40m2."
+    }
+  ]
+}
